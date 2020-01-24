@@ -1,0 +1,50 @@
+.card {
+    margin-top: 100px !important;
+    font-style: italic;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.card_YELLOW {
+    background-color: yellow;
+}
+
+.card_BLUE {
+    background-color: blue;
+}
+
+.card_RED {
+    background-color: red;
+}
+
+.card_GREEN {
+    background-color: green;
+}
+
+.card_GREY {
+    background-color: grey;
+}
+
+
+.card_SMALL {
+    width: 20%;
+    height: 100px;
+    padding: 10px;
+    font-size: 10px;
+}
+
+.card_MEDIUM {
+    width: 40%;
+    height: 150px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.card_LARGE {
+    width: 60%;
+    height: 200px;
+    padding: 10px;
+    font-size: 20px;
+}

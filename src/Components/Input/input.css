@@ -1,0 +1,52 @@
+.input {
+    margin-top: 50px;
+    font-style: italic;
+    font-weight: lighter;
+    border: 1px solid black;
+    border-radius: 5px;
+    outline: none;
+}
+
+.input_YELLOW {
+    color: yellow;
+    border: 2px solid yellow;
+}
+
+.input_BLUE {
+    color: blue;
+    border: 2px solid blue;
+}
+
+.input_RED {
+    color: red;
+    border: 2px solid red;
+}
+
+.input_GREEN {
+    color: green;
+    border: 2px solid green;
+}
+
+.input_GREY {
+    color: grey;
+    border: 2px solid grey;
+}
+
+
+.input_SMALL {
+    width: 100px;
+    padding: 10px;
+    font-size: 10px;
+}
+
+.input_MEDIUM {
+    width: 150px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.input_LARGE {
+    width: 200px;
+    padding: 10px;
+    font-size: 20px;
+}
